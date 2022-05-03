@@ -1,7 +1,7 @@
 # aluraplus
 Este foi um exercício realizado, para o curso de Front-End da Alura - Cursos online de Tecnologia.
 
-A parte sem suor: visualizar o projeto no Figma, entender a plataforma (que não é difícil, mas quando tudo é novo, as coisas ficam bem confusas) e iniciar o exercício, com o auxílio da instrutora Monica Hill. Até aí tudo bem.
+A parte sem suor: visualizar o projeto no Figma, entender a plataforma (que não é difícil, mas quando tudo é novo, as coisas ficam bem confusas) e iniciar o exercício, com o auxílio da instrutora Monica Hillman. Até aí tudo bem.
 
 A parte com suor (e tremedeira): aí chega a parte final do exercício, e tem que finalizar o exercício sozinho.
   - escreve código, dá errado
